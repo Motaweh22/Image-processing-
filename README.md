@@ -1,7 +1,3 @@
-Certainly! Below is a comprehensive `README.md` file that covers everything about your project, including installation, usage, features, examples, and more. You can use this as-is or modify it to suit your needs.
-
----
-
 # Image Processing Utilities
 
 This repository contains a collection of Python utilities for image processing. The utilities are designed to perform various operations on images, such as grayscale conversion, halftoning, histogram equalization, edge detection, filtering, and more. The code is built using popular libraries like `Pillow`, `NumPy`, `OpenCV`, and `Matplotlib`.
